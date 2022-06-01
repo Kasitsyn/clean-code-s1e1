@@ -52,7 +52,7 @@ button {
 .task-input {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 
 .add-element__wrapper {
@@ -72,7 +72,7 @@ button {
 }
 
 .btn:hover {
-    color: #3a3A3a;
+    color: #3a3a3a;
 }
 
 /* Heading */
@@ -93,8 +93,8 @@ button {
     line-height: 18px;
     height: 21px;
     padding: 0 9px;
-    border: 1px solid #dDd;
-    background: #FFF;
+    border: 1px solid #ddd;
+    background: #fff;
     border-radius: 6px;
     font-family: Lato, sans-serif;
     color: #888;
@@ -141,7 +141,7 @@ button {
 }
 
 .list__item>.input-text {
-    width: 226px
+    width: 226px;
 }
 
 .delete img {
@@ -162,12 +162,12 @@ button {
 
 /* Edit Task */
 .list__item .input-text {
-    display: none
+    display: none;
 }
 
 .item-edit .input-text {
     display: inline-block;
-    width: 224px
+    width: 224px;
 }
 
 .item-edit label {
